@@ -26,7 +26,7 @@ requirements:
 
 test:
   imports:
-    - deutschland
+    - deutschland.bundestag_lobbyregister
   commands:
     - pip check
   requires:
